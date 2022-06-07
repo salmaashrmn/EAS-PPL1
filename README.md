@@ -1,4 +1,5 @@
 # EAS-PPL1 Praktek
+Github Repository Kelompok, disusun untuk memenuhi nilai EAS Matakuliah PPL 1
 
 <p>Alifah Fisalsabilawati - 201511035
 
